@@ -181,7 +181,7 @@ spec:
               jobCleanUpPolicy: retain
     metadata:
       labels:
-        weight: "10"
+        weight: "5"
     name: pod-delete
     outputs: {}
   - arguments: {}
