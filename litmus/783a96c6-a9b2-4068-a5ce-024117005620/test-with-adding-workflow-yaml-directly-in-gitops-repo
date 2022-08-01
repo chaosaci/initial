@@ -4,7 +4,7 @@ metadata:
   creationTimestamp: null
   labels:
     cluster_id: f07d8598-16fc-4547-a944-5bdff0cdbdde
-    subject: test-gitops-public_litmus
+    subject: test-gitops-pushing-directly
     workflow_id: f8da6a1a-cf18-49ca-a5e3-20b5fe682833
     workflows.argoproj.io/controller-instanceid: f07d8598-16fc-4547-a944-5bdff0cdbdde
   name: test-gitops-public-1659363207
