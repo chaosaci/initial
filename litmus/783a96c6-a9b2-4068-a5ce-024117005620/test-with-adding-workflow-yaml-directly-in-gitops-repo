@@ -1,13 +1,12 @@
 apiVersion: argoproj.io/v1alpha1
 kind: Workflow
 metadata:
-  creationTimestamp: null
   labels:
     cluster_id: f07d8598-16fc-4547-a944-5bdff0cdbdde
     subject: test-gitops-pushing-directly
-    workflow_id: f8da6a1a-cf18-49ca-a5e3-20b5fe682833
+    workflow_id: 
     workflows.argoproj.io/controller-instanceid: f07d8598-16fc-4547-a944-5bdff0cdbdde
-  name: test-gitops-public-1659363207
+  name: test-gitops-pushing-directly
   namespace: litmus
 spec:
   arguments:
