@@ -395,7 +395,7 @@ spec:
               annotationCheck: "false"
     metadata:
       labels:
-        weight: "10"
+        weight: "5"
     name: pod-delete-o22
     outputs: {}
   - container:
